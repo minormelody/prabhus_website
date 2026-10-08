@@ -87,14 +87,14 @@ get_header();
 					<div class="product-category">Medium Concert Flute</div>
 					<h3 class="product-title">Prabhu Concert Bansuri - E Natural Medium</h3>
 					<div class="product-specs-mini">
-						<span>📏 15 Inches</span> • <span>🎋 Assam Bamboo</span> • <span>🔴 Red Silk Thread</span>
+						<span>📏 15 Inches</span> • <span>Bamboo</span> • <span>🔴 Red Silk Thread</span>
 					</div>
 					<p style="font-size:0.85rem; color:var(--color-text-muted);">
 						The most popular scale for classical Indian music, light music & Bollywood covers. Effortless blowing.
 					</p>
 					<div class="product-price-row">
 						<div>
-							<span class="product-price">₹2,499</span>
+							<span class="product-price" style="font-size:0.95rem;">Price on Request</span>
 							<span style="display:block; font-size:0.75rem; color:var(--color-primary);">Direct Order</span>
 						</div>
 						<button class="btn btn-primary btn-sm inquire-trigger" data-title="Prabhu Concert Bansuri - E Natural Medium" data-img="<?php echo esc_url( get_template_directory_uri() . '/assets/images/flute_e_natural.png' ); ?>">
@@ -115,14 +115,14 @@ get_header();
 					<div class="product-category">Deep Bass Flute</div>
 					<h3 class="product-title">Prabhu Masterclass Flute - C Natural Bass</h3>
 					<div class="product-specs-mini">
-						<span>📏 32 Inches</span> • <span>🎋 Thick Wall Bamboo</span> • <span>🟡 Gold Thread</span>
+						<span>📏 32 Inches</span> • <span>Bamboo</span> • <span>🟡 Gold Thread</span>
 					</div>
 					<p style="font-size:0.85rem; color:var(--color-text-muted);">
 						Deep, meditative bass resonance preferred by classical maestros. Rich low octave warmth.
 					</p>
 					<div class="product-price-row">
 						<div>
-							<span class="product-price">₹3,899</span>
+							<span class="product-price" style="font-size:0.95rem;">Price on Request</span>
 							<span style="display:block; font-size:0.75rem; color:var(--color-primary);">Direct Order</span>
 						</div>
 						<button class="btn btn-primary btn-sm inquire-trigger" data-title="Prabhu Masterclass Flute - C Natural Bass" data-img="<?php echo esc_url( get_template_directory_uri() . '/assets/images/hero_flute_banner.png' ); ?>">
@@ -143,14 +143,14 @@ get_header();
 					<div class="product-category">Treble Flute</div>
 					<h3 class="product-title">Prabhu Soloist Bansuri - G Natural Treble</h3>
 					<div class="product-specs-mini">
-						<span>📏 12 Inches</span> • <span>🎋 Fine Bamboo</span> • <span>🟢 Sage Thread</span>
+						<span>📏 12 Inches</span> • <span>Fine Bamboo</span> • <span>🟢 Sage Thread</span>
 					</div>
 					<p style="font-size:0.85rem; color:var(--color-text-muted);">
 						Crisp, bright high notes perfect for fast rhythmic passages and solo improvisations.
 					</p>
 					<div class="product-price-row">
 						<div>
-							<span class="product-price">₹1,799</span>
+							<span class="product-price" style="font-size:0.95rem;">Price on Request</span>
 							<span style="display:block; font-size:0.75rem; color:var(--color-primary);">Direct Order</span>
 						</div>
 						<button class="btn btn-primary btn-sm inquire-trigger" data-title="Prabhu Soloist Bansuri - G Natural Treble" data-img="<?php echo esc_url( get_template_directory_uri() . '/assets/images/flute_e_natural.png' ); ?>">
@@ -178,7 +178,7 @@ get_header();
 					</p>
 					<div class="product-price-row">
 						<div>
-							<span class="product-price">₹799</span>
+							<span class="product-price" style="font-size:0.95rem;">Price on Request</span>
 							<span style="display:block; font-size:0.75rem; color:var(--color-primary);">Direct Order</span>
 						</div>
 						<button class="btn btn-primary btn-sm inquire-trigger" data-title="Padded Canvas Flute Carry Case" data-img="<?php echo esc_url( get_template_directory_uri() . '/assets/images/flute_accessory.png' ); ?>">
